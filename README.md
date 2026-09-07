@@ -74,7 +74,7 @@ The final comparison considers both training and test performance to assess mode
 
 ```text
 .
-├── Electricity_Consumption.csv
+├── Electricity_consumption.csv
 ├── Electricity_consumption.ipynb
 ├── Electricity_consumption.docx
 └── README.md
