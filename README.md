@@ -12,7 +12,7 @@ The main objective is to develop and compare different models for predicting dai
 The project uses the **daily electricity consumption in Turkey** dataset provided as:
 
 ```text
-Electricity-Consumption.csv
+Electricity_Consumption.csv
 ```
 
 The data is divided into:
@@ -74,9 +74,9 @@ The final comparison considers both training and test performance to assess mode
 
 ```text
 .
-├── Electricity-Consumption.csv
+├── Electricity_Consumption.csv
 ├── Electricity_consumption.ipynb
-├── electricity consumption.docx
+├── Electricity_consumption.docx
 └── README.md
 ```
 
